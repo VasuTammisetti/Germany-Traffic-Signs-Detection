@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'Pedestrians move use mandatory path'
+}
+
+item {
+    id: 2
+    name: 'pedestrians and cyclists'
+}
+
+item {
+    id: 3
+    name: 'pedestrians proceed'
+}
+
+item {
+    id: 4
+    name: 'pedestrians stop'
+}
+
+item {
+    id: 5
+    name: 'E Bike'
+}
+
+item {
+    id: 6
+    name: 'Van'
+}
+
+item {
+    id: 7
+    name: 'Ped lines'
+}
